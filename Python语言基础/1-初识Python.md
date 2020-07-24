@@ -64,6 +64,8 @@ Python可应用于多平台包括 Linux 和 Mac OS X。你可以通过终端窗�
 
     print('hello, world!')
 
+ > 自己是用的VS Code来运行Python代码，找到了一个比较有帮助的配置VS Code的Python环境的[教程](https://www.cnblogs.com/xiaojwang/p/11331202.html)
+
 #### 运行程序
 切换到源代码所在的目录并执行下面的命令，看看屏幕上是否输出了"hello, world!"。
 
