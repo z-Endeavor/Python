@@ -31,3 +31,9 @@ Python Study
  - while循环 - 基本结构 / break语句 / continue语句
  - for循环 - 基本结构 / range类型 / 循环中的分支结构 / 嵌套的循环 / 提前结束程序
  - 应用案例 - 1~100求和 / 判断素数 / 猜数字游戏 / 打印九九表 / 打印三角形图案 / 猴子吃桃 / 百钱百鸡
+
+ #### 5 - [构造程序逻辑](https://github.com/z-Endeavor/Python/blob/master/Python%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/5-%E6%9E%84%E9%80%A0%E7%A8%8B%E5%BA%8F%E9%80%BB%E8%BE%91.md)
+
+ - 经典案例：水仙花数 / 百钱百鸡 / Craps赌博游戏
+ - 练习题目：斐波那契数列 / 完美数 / 素数
+ 
