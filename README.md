@@ -37,7 +37,7 @@ Python Study
  - 经典案例：水仙花数 / 百钱百鸡 / Craps赌博游戏
  - 练习题目：斐波那契数列 / 完美数 / 素数
  
-#### 6 - 函数和模块的使用
+#### 6 - [函数和模块的使用](https://github.com/z-Endeavor/Python/blob/master/Python%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/6-%E5%87%BD%E6%95%B0%E5%92%8C%E6%A8%A1%E5%9D%97%E7%9A%84%E4%BD%BF%E7%94%A8.md)
  - 函数的作用 - 代码的坏味道 / 用函数封装功能模块
  - 定义函数 - def语句 / 函数名 / 参数列表 / return语句 / 调用自定义函数
  - 调用函数 - Python内置函数 / 导入模块和函数
