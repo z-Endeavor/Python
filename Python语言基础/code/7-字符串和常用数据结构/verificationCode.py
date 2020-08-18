@@ -22,5 +22,4 @@ def generate_code(code_len=4):
 
 
 if __name__ == "__main__":
-    code = generate_code()
-    print(code)
+    print(generate_code())
