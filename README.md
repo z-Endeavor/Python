@@ -77,8 +77,12 @@ Python Study
  - 使用pygame三方库开发游戏应用
  - “大球吃小球”游戏
 
-#### 11 - 文件和异常
+#### 11 - [文件和异常](https://github.com/z-Endeavor/Python/blob/master/Python%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/11-%E6%96%87%E4%BB%B6%E5%92%8C%E5%BC%82%E5%B8%B8.md)
  - 读文件 - 读取整个文件 / 逐行读取 / 文件路径
  - 写文件 - 覆盖写入 / 追加写入 / 文本文件 / 二进制文件
  - 异常处理 - 异常机制的重要性 / try-except代码块 / else代码块 / finally代码块
  - 数据持久化 - JSON数据格式 / json模块的应用
+
+#### 12 - 正则表达式
+ - 正则表达式入门 - 正则表达式的作用 / 元字符 / 转义 / 量词 / 分组 / 零宽断言 /贪婪匹配与惰性匹配懒惰 / 使用re模块实现正则表达式操作（匹配、搜索、替换、捕获）
+ - 使用正则表达式 - re模块 / compile函数 / group和groups方法 / match方法 / search方法 / findall和finditer方法 / sub和subn方法 / split方法
