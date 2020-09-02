@@ -91,3 +91,4 @@ Python Study
  - 进程和线程的概念 - 什么是进程 / 什么是线程 / 多线程的应用场景
  - 使用进程 - fork函数 / multiprocessing模块 / 进程池 / 进程间通信
  - 使用线程 - thread模块 / threading模块 / Thread类 / Lock类 / Condition类 / 线程池
+ - 应用案例 - 将耗时间的任务放到线程中以获得更好的用户体验 / 使用多进程对复杂任务进行“分而治之”
